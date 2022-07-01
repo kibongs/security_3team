@@ -1,0 +1,10 @@
+{
+    "name": "electron-app",
+    "main": "pubilc/electron.js",
+    "scripts": {
+      "electron:start": "electron ."
+    },
+    "devDependencies": {
+      "electron": "^11.1.1"
+    }
+  }

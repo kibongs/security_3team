@@ -17,7 +17,7 @@ You need to install NodeJS first.
 
 ### Important Message
 If you want to use video or image files,
-they muse exist in the 'src/images' folder
+they must exist in the 'src/images' folder
 
 ### Certification File
 1. ROOTCA : rootca.csr

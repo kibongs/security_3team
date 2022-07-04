@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+{% block body %}
+  <div class="row">
+    <div class="six columns">
+      <form action="/login/auth" method="GET">
+        <div class="row">
+          <ul>
+            <li>Open Google Authenticator</li>
+            <li>Tap on the + button</li>
+            <li>Then tap on 'Enter a setup key'</li>
+            <li>Type the text written below into the file 'Your key'</li>
+            <li>Click Add</li>
+          </ul>
+        </div>
+        <canvas id="qr"></canvas>
+        <script src="{{ url_for('static', filename='qrious.min.js') }}"></script>
+        <script>
+          (function() {
+            var qr = new QRious({
+              element: document.getElementById('qr'),
+              value: '{{ prov_uri }}'
+            });
+          })();
+        </script>
+        <div class="row">
+          <div class="ten columns">
+            <input class="u-full-width" type="text" value="{{ secret_key }}" readonly>
+          </div>
+        </div>
+      </form>
+    </div>  
+  </div>
+{% endblock %}

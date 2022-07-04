@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+{% block body %}
+  <table id="data" class="table table-striped">
+    <thead>
+      <tr>
+        <th>Username</th>
+        <th>Query Per Second</th>
+        <th>Best Match Count</th>
+        <th>Partial Match Count</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for log in logs %}
+        <tr>
+          <td>{{ log.username }}</td>
+          <td>{{ log.qps }}</td>
+          <td>{{ log.bestcnt }}</td>
+          <td>{{ log.partialcnt}}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

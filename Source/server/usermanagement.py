@@ -109,19 +109,6 @@ def signin():
 
   return jsonify(value)
 
-@user_management.route("/auth/<user>", methods=['GET'])
-def OTP_auth(user):
-
-  data = User.query.filter_by(username=user).first()
-
-  if data is not None:
-    return render_template('auth.html', title='User OTP Info.', secret_key=data.otp,
-                             prov_uri=pyotp.TOTP(data.otp).provisioning_uri(name=user, issuer_name='3team Studio Project'))
-  else:
-    flash("Invalid user. Please try again.")
-    return redirect(url_for("usermanagement.index"))
-
-
 @user_management.route("/admin/signin", methods=['GET', 'POST'])
 def adminsignin():
   form_user = request.form.get("username")

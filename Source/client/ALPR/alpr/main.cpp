@@ -36,8 +36,8 @@
 #include "video/videobuffer.h"
 #include "motiondetector.h"
 #include "alpr.h"
-#include "./../socket.io-client-cpp/src/sio_client.h"
-#include "./../socket.io-client-cpp/lib/websocketpp/websocketpp/base64/base64.hpp"
+#include "./../socketio/src/sio_client.h"
+#include "./../socketio/lib/websocketpp/websocketpp/base64/base64.hpp"
 
 //#define FOR_DEBUGGING
 // Socket

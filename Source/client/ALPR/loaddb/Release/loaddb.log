@@ -1,0 +1,2 @@
+﻿  loaddb.cpp
+C:\CS\CMU\Project\220615_hglee\loaddb\loaddb.cpp(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'db.h': No such file or directory

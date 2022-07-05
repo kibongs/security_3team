@@ -1,0 +1,30 @@
+﻿  png.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\png.c(918,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngerror.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngerror.c(403,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngget.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngget.c(926,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngmem.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngmem.c(612,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngpread.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngpread.c(1766,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngread.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngread.c(1362,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngrio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngrio.c(164,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngrtran.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngrtran.c(4204,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngrutil.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngrutil.c(3382,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngset.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngset.c(1168,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngtrans.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngtrans.c(678,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngwio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngwio.c(242,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngwrite.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngwrite.c(1458,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngwtran.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngwtran.c(567,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngwutil.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libpng\src\pngwutil.c(2787,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

@@ -1,0 +1,12 @@
+﻿  NetworkTCP.cpp
+  featurematcher.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\statedetection\featurematcher.h(23,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/calib3d/calib3d.hpp': No such file or directory
+  line_segment.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\statedetection\line_segment.h(23,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  state_detector.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\statedetection\featurematcher.h(23,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/calib3d/calib3d.hpp': No such file or directory
+  state_detector_impl.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\statedetection\featurematcher.h(23,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/calib3d/calib3d.hpp': No such file or directory
+  DeviceEnumerator.cpp
+  lgdemo.cpp
+C:\CS\CMU\Project\220615_hglee\lgdemo\lgdemo.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'NetworkTCP.h': No such file or directory

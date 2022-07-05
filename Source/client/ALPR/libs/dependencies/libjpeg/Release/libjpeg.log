@@ -1,0 +1,210 @@
+﻿  jaricom.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jaricom.c(154,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcapimin.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcapimin.c(289,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcapistd.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcapistd.c(162,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcarith.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcarith.c(110,1): warning C4005: 'ISHIFT_TEMPS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcarith.c(104): message : 'ISHIFT_TEMPS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcarith.c(111,1): warning C4005: 'IRIGHT_SHIFT': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcarith.c(108): message : 'IRIGHT_SHIFT'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcarith.c(935,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jccoefct.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jccoefct.c(454,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jccolor.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jccolor.c(460,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcdctmgr.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcdctmgr.c(107,1): warning C4005: 'DIVIDE_BY': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcdctmgr.c(105): message : 'DIVIDE_BY'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcdctmgr.c(483,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jchuff.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(37,1): warning C4005: 'MAX_COEF_BITS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(35): message : 'MAX_COEF_BITS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(76,1): warning C4005: 'ASSIGN_STATE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(67): message : 'ASSIGN_STATE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(150,1): warning C4005: 'ISHIFT_TEMPS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(144): message : 'ISHIFT_TEMPS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(151,1): warning C4005: 'IRIGHT_SHIFT': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(148): message : 'IRIGHT_SHIFT'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jchuff.c(1577,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcinit.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcinit.c(66,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcmainct.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcmainct.c(294,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcmarker.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcmarker.c(683,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcmaster.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcmaster.c(426,1): warning C4005: 'MAX_AH_AL': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcmaster.c(424): message : 'MAX_AH_AL'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcmaster.c(859,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcomapi.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcomapi.c(107,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcparam.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcparam.c(633,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcprepct.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcprepct.c(359,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jcsample.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jcsample.c(546,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jctrans.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jctrans.c(383,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdapimin.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdapimin.c(397,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdapistd.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdapistd.c(276,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdarith.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdarith.c(773,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  jdatadst.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdatadst.c(268,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdatasrc.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdatasrc.c(275,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdcoefct.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdcoefct.c(737,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdcolor.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdcolor.c(397,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jddctmgr.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jddctmgr.c(385,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdhuff.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(217,1): warning C4005: 'ASSIGN_STATE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(209): message : 'ASSIGN_STATE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(460,1): warning C4005: 'MIN_GET_BITS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(458): message : 'MIN_GET_BITS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(577,1): warning C4005: 'BIT_MASK': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(572): message : 'BIT_MASK'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(578,1): warning C4005: 'HUFF_EXTEND': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(573): message : 'HUFF_EXTEND'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdhuff.c(1542,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdinput.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdinput.c(662,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdmainct.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdmainct.c(513,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdmarker.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdmarker.c(1407,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdmaster.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdmaster.c(534,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdmerge.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdmerge.c(401,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdpostct.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdpostct.c(291,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdsample.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdsample.c(362,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jdtrans.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jdtrans.c(141,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jerror.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jerror.c(253,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jfdctflt.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctflt.c(175,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jfdctfst.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(85,1): warning C4005: 'FIX_0_382683433': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(80): message : 'FIX_0_382683433'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(86,1): warning C4005: 'FIX_0_541196100': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(81): message : 'FIX_0_541196100'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(87,1): warning C4005: 'FIX_0_707106781': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(82): message : 'FIX_0_707106781'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(88,1): warning C4005: 'FIX_1_306562965': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(83): message : 'FIX_1_306562965'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctfst.c(231,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jfdctint.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(100,1): warning C4005: 'PASS1_BITS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(97): message : 'PASS1_BITS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(124,1): warning C4005: 'FIX_0_298631336': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(111): message : 'FIX_0_298631336'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(125,1): warning C4005: 'FIX_0_390180644': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(112): message : 'FIX_0_390180644'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(126,1): warning C4005: 'FIX_0_541196100': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(113): message : 'FIX_0_541196100'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(127,1): warning C4005: 'FIX_0_765366865': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(114): message : 'FIX_0_765366865'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(128,1): warning C4005: 'FIX_0_899976223': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(115): message : 'FIX_0_899976223'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(129,1): warning C4005: 'FIX_1_175875602': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(116): message : 'FIX_1_175875602'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(130,1): warning C4005: 'FIX_1_501321110': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(117): message : 'FIX_1_501321110'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(131,1): warning C4005: 'FIX_1_847759065': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(118): message : 'FIX_1_847759065'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(132,1): warning C4005: 'FIX_1_961570560': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(119): message : 'FIX_1_961570560'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(133,1): warning C4005: 'FIX_2_053119869': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(120): message : 'FIX_2_053119869'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(134,1): warning C4005: 'FIX_2_562915447': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(121): message : 'FIX_2_562915447'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(135,1): warning C4005: 'FIX_3_072711026': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(122): message : 'FIX_3_072711026'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(149,1): warning C4005: 'MULTIPLY': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(147): message : 'MULTIPLY'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jfdctint.c(4349,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jidctflt.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctflt.c(236,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jidctfst.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(81,1): warning C4005: 'PASS1_BITS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(78): message : 'PASS1_BITS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(97,1): warning C4005: 'FIX_1_082392200': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(92): message : 'FIX_1_082392200'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(98,1): warning C4005: 'FIX_1_414213562': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(93): message : 'FIX_1_414213562'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(99,1): warning C4005: 'FIX_1_847759065': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(94): message : 'FIX_1_847759065'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(100,1): warning C4005: 'FIX_2_613125930': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(95): message : 'FIX_2_613125930'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(132,1): warning C4005: 'DEQUANTIZE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(129): message : 'DEQUANTIZE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(145,1): warning C4005: 'DCTELEMBITS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(143): message : 'DCTELEMBITS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(152,1): warning C4005: 'ISHIFT_TEMPS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(141): message : 'ISHIFT_TEMPS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(153,1): warning C4005: 'IRIGHT_SHIFT': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(150): message : 'IRIGHT_SHIFT'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(159,1): warning C4005: 'IDESCALE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(157): message : 'IDESCALE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctfst.c(369,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  jidctint.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(105,1): warning C4005: 'PASS1_BITS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(102): message : 'PASS1_BITS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(129,1): warning C4005: 'FIX_0_298631336': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(116): message : 'FIX_0_298631336'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(130,1): warning C4005: 'FIX_0_390180644': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(117): message : 'FIX_0_390180644'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(131,1): warning C4005: 'FIX_0_541196100': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(118): message : 'FIX_0_541196100'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(132,1): warning C4005: 'FIX_0_765366865': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(119): message : 'FIX_0_765366865'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(133,1): warning C4005: 'FIX_0_899976223': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(120): message : 'FIX_0_899976223'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(134,1): warning C4005: 'FIX_1_175875602': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(121): message : 'FIX_1_175875602'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(135,1): warning C4005: 'FIX_1_501321110': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(122): message : 'FIX_1_501321110'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(136,1): warning C4005: 'FIX_1_847759065': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(123): message : 'FIX_1_847759065'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(137,1): warning C4005: 'FIX_1_961570560': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(124): message : 'FIX_1_961570560'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(138,1): warning C4005: 'FIX_2_053119869': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(125): message : 'FIX_2_053119869'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(139,1): warning C4005: 'FIX_2_562915447': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(126): message : 'FIX_2_562915447'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(140,1): warning C4005: 'FIX_3_072711026': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(127): message : 'FIX_3_072711026'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(154,1): warning C4005: 'MULTIPLY': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(152): message : 'MULTIPLY'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jidctint.c(5138,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jmemmgr.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jmemmgr.c(1119,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jmemnobs.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jmemnobs.c(110,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jquant1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jquant1.c(857,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jquant2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jquant2.c(88,1): warning C4005: 'C0_SCALE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jquant2.c(85): message : 'C0_SCALE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jquant2.c(97,1): warning C4005: 'C2_SCALE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jquant2.c(94): message : 'C2_SCALE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jquant2.c(1311,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jutils.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jutils.c(156,1): warning C4005: 'FMEMCOPY': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jutils.c(152): message : 'FMEMCOPY'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jutils.c(157,1): warning C4005: 'FMEMZERO': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jutils.c(153): message : 'FMEMZERO'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libjpeg\src\jutils.c(232,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

@@ -1,0 +1,343 @@
+﻿  adaptmap.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\adaptmap.c(2809,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  affine.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\affine.c(1560,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  affinecompose.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\affinecompose.c(659,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  arrayaccess.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\arrayaccess.c(361,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bardecode.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bardecode.c(1006,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  baseline.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\baseline.c(570,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bbuffer.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bbuffer.c(501,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bilateral.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bilateral.c(791,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bilinear.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bilinear.c(898,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  binarize.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\binarize.c(1000,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  binexpand.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\binexpand.c(316,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  binreduce.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\binreduce.c(400,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blend.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\blend.c(2129,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bmf.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bmf.c(724,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bmpio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bmpio.c(646,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bmpiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bmpiostub.c(68,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  boxbasic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\boxbasic.c(2122,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  boxfunc1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\boxfunc1.c(1747,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  boxfunc2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\boxfunc2.c(1575,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  boxfunc3.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\boxfunc3.c(1340,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  boxfunc4.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\boxfunc4.c(1801,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bytearray.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\bytearray.c(621,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ccbord.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\ccbord.c(2533,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ccthin.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\ccthin.c(473,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  classapp.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\classapp.c(912,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colorcontent.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colorcontent.c(1464,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  coloring.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\coloring.c(890,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colormap.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colormap.c(1879,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colormorph.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colormorph.c(122,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colorquant1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colorquant1.c(4028,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colorquant2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colorquant2.c(1627,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colorseg.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colorseg.c(626,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colorspace.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\colorspace.c(1640,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  compare.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\compare.c(1973,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  conncomp.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\conncomp.c(1200,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  convertfiles.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\convertfiles.c(142,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  convolve.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\convolve.c(2048,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  convolvelow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\convolvelow.c(480,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  correlscore.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\correlscore.c(870,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dewarp1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dewarp1.c(1451,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  dewarp2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dewarp2.c(1485,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dewarp3.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dewarp3.c(713,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dewarp4.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dewarp4.c(1020,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dnabasic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dnabasic.c(1691,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dwacomb.2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dwacomb.2.c(292,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dwacomblow.2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\dwacomblow.2.c(4967,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  edge.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\edge.c(633,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  endiantest.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\endiantest.c(51,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  enhance.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\enhance.c(2015,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fhmtauto.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fhmtauto.c(798,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fhmtgen.1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fhmtgen.1.c(175,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fhmtgenlow.1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fhmtgenlow.1.c(446,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  finditalic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\finditalic.c(232,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  flipdetect.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\flipdetect.c(1001,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fliphmtgen.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fliphmtgen.c(352,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fmorphauto.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fmorphauto.c(863,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fmorphgen.1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fmorphgen.1.c(274,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fmorphgenlow.1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fmorphgenlow.1.c(5863,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fpix1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fpix1.c(1949,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fpix2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\fpix2.c(2401,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  gifio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\gifio.c(546,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gifiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\gifiostub.c(72,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gplot.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\gplot.c(915,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  graphics.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\graphics.c(2602,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  graymorph.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\graymorph.c(1023,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  graymorphlow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\graymorphlow.c(310,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  grayquant.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\grayquant.c(1999,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  grayquantlow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\grayquantlow.c(901,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  heap.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\heap.c(529,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jbclass.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jbclass.c(2492,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jp2kheader.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jp2kheader.c(291,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jp2kheaderstub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jp2kheaderstub.c(71,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jp2kio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jp2kio.c(879,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jp2kiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jp2kiostub.c(95,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jpegio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jpegio.c(1239,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  jpegiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\jpegiostub.c(142,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  kernel.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\kernel.c(1212,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  leptwin.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\leptwin.c(365,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  libversions.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\libversions.c(193,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  list.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\list.c(794,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  maze.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\maze.c(1075,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  morph.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\morph.c(1778,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  morphapp.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\morphapp.c(1446,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  morphdwa.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\morphdwa.c(1600,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  morphseq.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\morphseq.c(1236,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  numabasic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\numabasic.c(2117,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  numafunc1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\numafunc1.c(2845,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\numafunc1.c(3309,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  numafunc2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\numafunc2.c(2612,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pageseg.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pageseg.c(810,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  paintcmap.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\paintcmap.c(668,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  parseprotos.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\parseprotos.c(944,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  partition.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\partition.c(644,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pdfio1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pdfio1.c(2137,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pdfio1stub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pdfio1stub.c(304,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pdfio2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pdfio2.c(2250,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pdfio2stub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pdfio2stub.c(159,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pix1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pix1.c(1762,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pix2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pix2.c(3242,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pix3.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pix3.c(2891,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pix4.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pix4.c(3050,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  pix5.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pix5.c(2661,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixabasic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixabasic.c(2535,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixacc.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixacc.c(343,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixafunc1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixafunc1.c(2312,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixafunc2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixafunc2.c(1629,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixalloc.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixalloc.c(529,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixarith.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixarith.c(1342,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixcomp.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixcomp.c(1931,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixconv.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixconv.c(3458,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixlabel.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixlabel.c(310,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pixtiling.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pixtiling.c(412,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pngio.c(1260,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pngiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pngiostub.c(135,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pnmio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pnmio.c(798,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pnmiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\pnmiostub.c(101,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  projective.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\projective.c(912,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  psio1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\psio1.c(988,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  psio1stub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\psio1stub.c(125,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  psio2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\psio2.c(2215,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  psio2stub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\psio2stub.c(251,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  ptabasic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\ptabasic.c(1294,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ptafunc1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\ptafunc1.c(2406,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ptra.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\ptra.c(976,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  quadtree.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\quadtree.c(675,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  queue.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\queue.c(313,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rank.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rank.c(521,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  readbarcode.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\readbarcode.c(1488,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  readfile.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\readfile.c(1243,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  recogbasic.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\recogbasic.c(1576,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  recogdid.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\recogdid.c(1006,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  recogident.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\recogident.c(2081,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  recogtrain.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\recogtrain.c(2409,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  regutils.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\regutils.c(744,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rop.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rop.c(507,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ropiplow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\ropiplow.c(429,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  roplow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\roplow.c(2119,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rotate.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rotate.c(589,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rotateam.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rotateam.c(476,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rotateamlow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rotateamlow.c(676,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rotateorth.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rotateorth.c(713,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  rotateshear.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\rotateshear.c(461,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  runlength.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\runlength.c(796,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sarray.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\sarray.c(1959,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  scale.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\scale.c(3246,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  scalelow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\scalelow.c(2450,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  seedfill.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\seedfill.c(1613,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  seedfilllow.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\seedfilllow.c(1828,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sel1.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\sel1.c(2284,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sel2.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\sel2.c(623,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  selgen.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\selgen.c(965,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  shear.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\shear.c(821,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  skew.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\skew.c(1174,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  spixio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\spixio.c(448,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  stack.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\stack.c(284,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sudoku.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\sudoku.c(861,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  textops.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\textops.c(968,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tiffio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\tiffio.c(2132,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tiffiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\tiffiostub.c(194,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  utils.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\utils.c(3519,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  viewfiles.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\viewfiles.c(239,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  warper.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\warper.c(1367,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  watershed.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\watershed.c(1107,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  webpio.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\webpio.c(398,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  webpiostub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\webpiostub.c(98,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  writefile.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\writefile.c(1315,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  zlibmem.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\zlibmem.c(251,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  zlibmemstub.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\liblept\src\zlibmemstub.c(58,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

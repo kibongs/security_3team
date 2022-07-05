@@ -1,0 +1,89 @@
+﻿  tif_aux.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_aux.c(291,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_close.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_close.c(127,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_codec.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_codec.c(161,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_color.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_color.c(283,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_compress.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_compress.c(296,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_dir.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_dir.c(1390,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_dirinfo.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_dirinfo.c(889,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_dirread.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_dirread.c(2082,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_dirwrite.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_dirwrite.c(1415,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_dumpmode.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_dumpmode.c(127,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_error.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_error.c(81,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_extension.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_extension.c(119,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_fax3.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_fax3.c(352,1): warning C4005: 'FILL': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_fax3.c(336): message : 'FILL'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_fax3.c(358,1): warning C4005: 'ZERO': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_fax3.c(345): message : 'ZERO'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_fax3.c(1627,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_fax3sm.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_fax3sm.c(1261,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_flush.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_flush.c(75,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_getimage.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_getimage.c(2677,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_jbig.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_jbig.c(386,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_jpeg.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_jpeg.c(2066,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_luv.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_luv.c(1225,1): warning C4005: 'PACK': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_luv.c(1148): message : 'PACK'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_luv.c(1630,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_lzw.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_lzw.c(83,1): warning C4005: 'CSIZE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_lzw.c(81): message : 'CSIZE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_lzw.c(188,1): warning C4005: 'NextCode': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_lzw.c(186): message : 'NextCode'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_lzw.c(1130,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  tif_next.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_next.c(155,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_ojpeg.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_ojpeg.c(2439,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_open.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_open.c(696,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_packbits.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_packbits.c(301,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_pixarlog.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_pixarlog.c(943,1): warning C4005: 'CLAMP': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_pixarlog.c(887): message : 'CLAMP'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_pixarlog.c(996,1): warning C4005: 'CLAMP': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_pixarlog.c(943): message : 'CLAMP'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_pixarlog.c(1372,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_predict.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_predict.c(737,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_print.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_print.c(647,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_read.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_read.c(751,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_strip.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_strip.c(371,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_swab.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_swab.c(243,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_thunder.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_thunder.c(166,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_tile.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_tile.c(281,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_unix.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_unix.c(301,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_version.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_version.c(41,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_warning.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_warning.c(82,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_write.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_write.c(719,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tif_zip.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\libtiff\src\tif_zip.c(420,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

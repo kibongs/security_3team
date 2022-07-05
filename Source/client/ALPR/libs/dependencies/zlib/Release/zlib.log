@@ -1,0 +1,52 @@
+﻿  adler32.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(59,1): warning C4005: 'MOD': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(44): message : 'MOD'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(60,1): warning C4005: 'MOD28': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(39): message : 'MOD28'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(61,1): warning C4005: 'MOD63': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(57): message : 'MOD63'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\adler32.c(180,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  compress.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\compress.c(81,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  crc32.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\crc32.c(46,1): warning C4005: 'TBLS': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\crc32.c(44): message : 'TBLS'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\crc32.c(426,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  deflate.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\deflate.c(189,1): warning C4005: 'INSERT_STRING': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\deflate.c(184): message : 'INSERT_STRING'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\deflate.c(1968,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gzclose.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzclose.c(26,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gzlib.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzlib.c(12,1): warning C4005: 'LSEEK': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzlib.c(9): message : 'LSEEK'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzlib.c(14,1): warning C4005: 'LSEEK': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzlib.c(12): message : 'LSEEK'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzlib.c(635,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gzread.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzread.c(595,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gzwrite.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\gzwrite.c(578,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  infback.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\infback.c(641,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  inffast.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inffast.c(28,1): warning C4005: 'OFF': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inffast.c(25): message : 'OFF'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inffast.c(29,1): warning C4005: 'PUP': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inffast.c(26): message : 'PUP'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inffast.c(341,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  inflate.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inflate.c(436,1): warning C4005: 'UPDATE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inflate.c(434): message : 'UPDATE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inflate.c(1513,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  inftrees.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\inftrees.c(307,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  trees.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\trees.c(169,1): warning C4005: 'send_code': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\trees.c(163): message : 'send_code'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\trees.c(1227,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  uncompr.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\uncompr.c(60,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  zutil.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\zlib\src\zutil.c(325,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

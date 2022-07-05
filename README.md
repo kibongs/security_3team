@@ -2,7 +2,12 @@
 
 ## Client
 ### ALPR
-#### ALPR Guide
+#### ALPR Build Guide
+1. Unzip Source\client\ALPR\opencv\build\x64\vc15\bin\opencv_world455d.zip to same folder
+2. Open Source\client\ALPR\OpenALPR.sln with Visual Studio
+3. Select Release Mode for configuration of solution project
+(if want Debug Mode, needs to install boost package)
+4. Build the solution -> ctrl + shift + b
 
 ### WEB
 #### WEB Guide

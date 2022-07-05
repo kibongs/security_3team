@@ -93,10 +93,11 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
+    <IncludePath>.\socket.io-client-cpp\lib\websocketpp;.\socket.io-client-cpp\lib\asio\asio\include;.\socket.io-client-cpp\lib\rapidjson\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>.\socket.io-client-cpp\lib\websocketpp;.\socket.io-client-cpp\lib\asio\asio\include;.\socket.io-client-cpp\lib\rapidjson\include;C:\CS\CMU\Project\220615_hglee\socket.io-client-cpp\lib\websocketpp\websocketpp;$(IncludePath)</IncludePath>
+    <IncludePath>.\socket.io-client-cpp\lib\websocketpp;.\socket.io-client-cpp\lib\asio\asio\include;.\socket.io-client-cpp\lib\rapidjson\include;$(IncludePath)</IncludePath>
     <LibraryPath>$(LibraryPath)</LibraryPath>
     <ExternalIncludePath>$(ExternalIncludePath)</ExternalIncludePath>
   </PropertyGroup>
@@ -137,7 +138,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions);WINDOWS;NOMINMAX</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\opencv\build\include;..\libs\libopenalpr;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\opencv\build\include;..\libs\libopenalpr;..\socket.io-client-cpp\lib\asio\asio\include\;..\socket.io-client-cpp\lib\rapidjson\include\;..\socket.io-client-cpp\lib\websocketpp\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -154,7 +155,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions);WINDOWS;NOMINMAX;BOOST_DATE_TIME_NO_LIB;BOOST_REGEX_NO_LIB;ASIO_STANDALONE;_WEBSOCKETPP_CPP11_STL_;_WEBSOCKETPP_CPP11_FUNCTIONAL_</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\opencv\build\include;..\libs\libopenalpr;..\socket.io-client-cpp\lib\asio\asio\include;..\socket.io-client-cpp\lib\rapidjson\include;..\socket.io-client-cpp\lib\websocketpp;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\opencv\build\include;..\libs\libopenalpr;..\socket.io-client-cpp\lib\asio\asio\include\;..\socket.io-client-cpp\lib\rapidjson\include\;..\socket.io-client-cpp\lib\websocketpp\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
     </ClCompile>
     <Link>

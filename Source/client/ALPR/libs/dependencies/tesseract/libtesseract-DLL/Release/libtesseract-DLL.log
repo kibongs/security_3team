@@ -1,0 +1,524 @@
+﻿  adaptions.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\adaptions.cpp(127,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imagedata.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\imagedata.cpp(495,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  adaptive.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\adaptive.cpp(569,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  adaptmatch.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\adaptmatch.cpp(2384,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  openclwrapper.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\opencl\openclwrapper.cpp(22,1): warning C4005: 'TIMESPEC': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\opencl\openclwrapper.cpp(20): message : 'TIMESPEC'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\opencl\openclwrapper.cpp(3522,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  alignedblob.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\alignedblob.cpp(553,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  altlist.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\altlist.cpp(61,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ambigs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\ambigs.cpp(399,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  applybox.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\applybox.cpp(792,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  associate.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\associate.cpp(175,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  baseapi.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\api\baseapi.cpp(2659,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pdfrenderer.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\api\pdfrenderer.cpp(969,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  basedir.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\basedir.cpp(46,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bbgrid.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\bbgrid.cpp(290,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  beam_search.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\beam_search.cpp(488,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bits16.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\bits16.cpp(30,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bitvec.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\bitvec.cpp(94,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bitvector.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\bitvector.cpp(270,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blkocc.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\blkocc.cpp(171,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blobbox.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\blobbox.cpp(1090,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  blobclass.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\blobclass.cpp(109,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blobgrid.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\blobgrid.cpp(45,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blobs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\blobs.cpp(1022,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blread.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\blread.cpp(72,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bmp_8.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\bmp_8.cpp(1145,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  boxread.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\boxread.cpp(235,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  boxword.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\boxword.cpp(204,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cached_file.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cached_file.cpp(151,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  callcpp.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\callcpp.cpp(148,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  capi.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\api\capi.cpp(793,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ccnontextdetect.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\ccnontextdetect.cpp(325,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ccstruct.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\ccstruct.cpp(37,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ccutil.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\ccutil.cpp(53,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  char_altlist.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\char_altlist.cpp(116,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  char_bigrams.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\char_bigrams.cpp(208,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  char_samp.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\char_samp.cpp(670,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  char_samp_enum.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\char_samp_enum.cpp(31,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  char_samp_set.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\char_samp_set.cpp(183,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  char_set.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\char_set.cpp(187,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  chop.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\chop.cpp(315,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  chopper.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\chopper.cpp(661,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cjkpitch.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\cjkpitch.cpp(1095,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  classifier_factory.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\classifier_factory.cpp(98,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  classify.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\classify.cpp(243,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  clst.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\clst.cpp(552,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cluster.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\cluster.cpp(2738,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  clusttool.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\clusttool.cpp(483,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colfind.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\colfind.cpp(1646,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colpartition.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\colpartition.cpp(2587,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colpartitiongrid.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\colpartitiongrid.cpp(1801,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colpartitionset.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\colpartitionset.cpp(669,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  con_comp.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\con_comp.cpp(287,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  context.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\context.cpp(89,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  control.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\control.cpp(2052,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  conv_net_classifier.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\conv_net_classifier.cpp(371,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  coutln.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\coutln.cpp(1043,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_control.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\cube_control.cpp(433,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_line_object.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cube_line_object.cpp(256,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_line_segmenter.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cube_line_segmenter.cpp(956,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_object.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cube_object.cpp(290,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  cube_reco_context.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\cube_reco_context.cpp(203,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_search_object.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cube_search_object.cpp(456,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_tuning_params.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cube_tuning_params.cpp(219,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cube_utils.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\cube_utils.cpp(390,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cubeclassifier.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\cubeclassifier.cpp(135,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cutil.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\cutil.cpp(101,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cutil_class.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\cutil_class.cpp(30,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  cutoffs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\cutoffs.cpp(84,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  danerror.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\danerror.cpp(58,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dawg.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\dawg.cpp(439,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detlinefit.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\detlinefit.cpp(296,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  devanagari_processing.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\devanagari_processing.cpp(503,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dict.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\dict.cpp(809,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  docqual.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\docqual.cpp(1005,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dppoint.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\dppoint.cpp(99,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  drawedg.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\drawedg.cpp(83,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  drawfx.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\drawfx.cpp(91,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  drawtord.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\drawtord.cpp(422,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  edgblob.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\edgblob.cpp(463,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  edgloop.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\edgloop.cpp(160,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  efio.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\efio.cpp(63,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  elst.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\elst.cpp(494,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  elst2.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\elst2.cpp(519,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  emalloc.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\emalloc.cpp(92,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  equationdetect.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\equationdetect.cpp(1541,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  equationdetectbase.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\equationdetectbase.cpp(66,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  errcode.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\errcode.cpp(92,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  errorcounter.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\errorcounter.cpp(508,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  featdefs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\featdefs.cpp(313,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  feature_bmp.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\feature_bmp.cpp(51,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  feature_chebyshev.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\feature_chebyshev.cpp(139,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  feature_hybrid.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\feature_hybrid.cpp(65,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  findseam.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\findseam.cpp(366,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fixspace.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\fixspace.cpp(869,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fixxht.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\fixxht.cpp(215,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  float2int.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\float2int.cpp(124,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fontinfo.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\fontinfo.cpp(263,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fpchop.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\fpchop.cpp(827,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  fpoint.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\fpoint.cpp(66,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  freelist.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\freelist.cpp(33,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  gap_map.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\gap_map.cpp(174,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  genblob.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\genblob.cpp(39,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gettimeofday.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\port\gettimeofday.cpp(33,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  globaloc.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\globaloc.cpp(95,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gradechop.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\gradechop.cpp(91,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  hybrid_neural_net_classifier.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\hybrid_neural_net_classifier.cpp(370,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  hyphen.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\hyphen.cpp(67,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  imagefind.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\imagefind.cpp(1343,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  indexmapbidi.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\indexmapbidi.cpp(251,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  input_file_buffer.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\neural_networks\runtime\input_file_buffer.cpp(37,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  intfeaturedist.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\intfeaturedist.cpp(160,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  intfeaturemap.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\intfeaturemap.cpp(246,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  intfeaturespace.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\intfeaturespace.cpp(137,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  intfx.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\intfx.cpp(534,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  intmatcher.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\intmatcher.cpp(1326,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  intproto.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\intproto.cpp(1980,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  kdtree.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\kdtree.cpp(575,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  language_model.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\language_model.cpp(1466,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  linefind.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\linefind.cpp(777,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  linlsq.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\linlsq.cpp(260,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  listio.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\listio.cpp(68,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ltrresultiterator.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\ltrresultiterator.cpp(380,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mainblk.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\mainblk.cpp(93,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  makerow.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\makerow.cpp(2708,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mastertrainer.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\mastertrainer.cpp(990,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  matrix.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\matrix.cpp(160,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  memry.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\memry.cpp(62,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mf.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\mf.cpp(87,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mfdefs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\mfdefs.cpp(59,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mfoutline.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\mfoutline.cpp(505,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mfx.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\mfx.cpp(213,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mod128.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\mod128.cpp(100,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  neural_net.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\neural_networks\runtime\neural_net.cpp(306,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  neuron.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\neural_networks\runtime\neuron.cpp(95,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  normalis.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\normalis.cpp(574,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  normfeat.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\normfeat.cpp(77,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  normmatch.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\normmatch.cpp(285,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ocrblock.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\ocrblock.cpp(520,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ocrfeatures.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\ocrfeatures.cpp(297,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ocrpara.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\ocrpara.cpp(101,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  ocrrow.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\ocrrow.cpp(244,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  oldbasel.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\oldbasel.cpp(1771,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  oldlist.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\oldlist.cpp(427,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  osdetect.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\osdetect.cpp(577,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  otsuthr.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\otsuthr.cpp(223,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  outfeat.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\outfeat.cpp(191,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  outlines.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\outlines.cpp(90,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  output.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\output.cpp(452,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pageiterator.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\pageiterator.cpp(627,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pageres.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\pageres.cpp(1690,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pagesegmain.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\pagesegmain.cpp(433,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pagewalk.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\pagewalk.cpp(44,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  paragraphs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\paragraphs.cpp(2579,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  params.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\params.cpp(226,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  par_control.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\par_control.cpp(70,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  paramsd.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\paramsd.cpp(354,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pdblock.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\pdblock.cpp(379,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  permdawg.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\permdawg.cpp(400,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pgedit.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\pgedit.cpp(1004,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  picofeat.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\picofeat.cpp(290,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  pieces.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\pieces.cpp(346,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pithsync.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\pithsync.cpp(696,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pitsync1.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\pitsync1.cpp(423,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  plotedges.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\plotedges.cpp(123,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  points.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\points.cpp(146,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  polyaprx.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\polyaprx.cpp(585,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  polyblk.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\polyblk.cpp(420,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  protos.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\protos.cpp(284,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  publictypes.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\publictypes.cpp(41,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  quadlsq.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\quadlsq.cpp(144,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  quspline.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\quspline.cpp(426,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ratngs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\ratngs.cpp(838,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  recogtraining.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\recogtraining.cpp(231,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rect.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\rect.cpp(264,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rejctmap.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\rejctmap.cpp(522,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  reject.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\reject.cpp(793,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  render.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\render.cpp(138,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  resultiterator.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\resultiterator.cpp(676,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sampleiterator.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\sampleiterator.cpp(263,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  scanedg.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\scanedg.cpp(373,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  scrollview.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\viewer\scrollview.cpp(842,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  seam.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\seam.cpp(281,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  search_column.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\search_column.cpp(230,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  search_node.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\search_node.cpp(233,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  segsearch.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\segsearch.cpp(357,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  serialis.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\serialis.cpp(146,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  shapetable.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\shapetable.cpp(737,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sigmoid_table.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\neural_networks\runtime\sigmoid_table.cpp(515,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  sortflts.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\sortflts.cpp(79,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  split.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\split.cpp(328,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  statistc.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\statistc.cpp(787,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  stepblob.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\stepblob.cpp(548,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  stopper.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\stopper.cpp(522,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  strngs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\strngs.cpp(503,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  strokewidth.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\strokewidth.cpp(2026,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  strtok_r.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\port\strtok_r.cpp(56,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  structures.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cutil\structures.cpp(37,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  svmnode.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\viewer\svmnode.cpp(145,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  svpaint.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\viewer\svpaint.cpp(227,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  svutil.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\viewer\svutil.cpp(450,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  tabfind.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tabfind.cpp(1484,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tablefind.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tablefind.cpp(2186,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tablerecog.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tablerecog.cpp(1067,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tabvector.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tabvector.cpp(993,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tess_lang_mod_edge.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\tess_lang_mod_edge.cpp(121,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tess_lang_model.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\tess_lang_model.cpp(524,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tessbox.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\tessbox.cpp(83,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tessclassifier.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\tessclassifier.cpp(88,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tessdatamanager.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\tessdatamanager.cpp(280,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tessedit.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\tessedit.cpp(485,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tesseract_cube_combiner.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\tesseract_cube_combiner.cpp(307,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tesseractclass.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\tesseractclass.cpp(764,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tessvars.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\tessvars.cpp(25,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  textlineprojection.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\textlineprojection.cpp(771,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  textord.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\textord.cpp(391,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tface.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\tface.cpp(150,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tfacepp.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\tfacepp.cpp(330,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  thresholder.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\thresholder.cpp(318,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  topitch.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\topitch.cpp(1841,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tordmain.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tordmain.cpp(992,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  tospace.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tospace.cpp(1890,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tovars.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\tovars.cpp(84,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tprintf.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\tprintf.cpp(72,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  trainingsample.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\trainingsample.cpp(348,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  trainingsampleset.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\trainingsampleset.cpp(864,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  trie.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\trie.cpp(740,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  underlin.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\underlin.cpp(284,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  unichar.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\unichar.cpp(226,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  unicharmap.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\unicharmap.cpp(173,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  unicharset.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\unicharset.cpp(1087,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  unicodes.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\unicodes.cpp(58,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  vecfuncs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\vecfuncs.cpp(64,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  werd.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\werd.cpp(601,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  werdit.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\werdit.cpp(60,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  word_altlist.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\word_altlist.cpp(122,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  word_list_lang_model.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\word_list_lang_model.cpp(206,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  word_size_model.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\word_size_model.cpp(302,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  word_unigrams.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\cube\word_unigrams.cpp(266,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  wordclass.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\wordclass.cpp(86,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  wordrec.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\wordrec.cpp(128,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  wordseg.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\wordseg.cpp(636,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  workingpartset.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\workingpartset.cpp(145,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  renderer.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\api\renderer.cpp(217,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  superscript.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccmain\superscript.cpp(611,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  blamer.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\blamer.cpp(588,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  params_training_featdef.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccstruct\params_training_featdef.cpp(41,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  scanutils.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\scanutils.cpp(582,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  universalambigs.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\ccutil\universalambigs.cpp(19022,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  shapeclassifier.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\classify\shapeclassifier.cpp(237,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dawg_cache.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\dict\dawg_cache.cpp(103,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  baselinedetect.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\textord\baselinedetect.cpp(877,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  lm_consistency.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\lm_consistency.cpp(114,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  lm_pain_points.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\lm_pain_points.cpp(217,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  lm_state.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\lm_state.cpp(82,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  params_model.cpp
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\tesseract\wordrec\params_model.cpp(175,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

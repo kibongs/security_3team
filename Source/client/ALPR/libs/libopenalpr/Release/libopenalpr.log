@@ -1,0 +1,143 @@
+﻿  alpr.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\alpr.cpp(139,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  alpr_impl.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\alpr_impl.cpp(812,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  binarize_wolf.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\binarize_wolf.cpp(217,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  colorfilter.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\colorfilter.cpp(405,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  config.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\config.cpp(415,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  config_helper.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\config_helper.cpp(173,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detector.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detector.cpp(262,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detectorcpu.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detectorcpu.cpp(82,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detectorcuda.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detectorcuda.cpp(92,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detectorfactory.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detectorfactory.cpp(42,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detectormask.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detectormask.cpp(167,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detectormorph.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detectormorph.cpp(233,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  detectorocl.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\detection\detectorocl.cpp(146,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  edgefinder.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\edges\edgefinder.cpp(347,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  platecorners.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\edges\platecorners.cpp(366,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  platelines.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\edges\platelines.cpp(251,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  scorekeeper.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\edges\scorekeeper.cpp(89,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  textlinecollection.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\edges\textlinecollection.cpp(166,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  licenseplatecandidate.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\licenseplatecandidate.cpp(143,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  motiondetector.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\motiondetector.cpp(72,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  ocr.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\ocr.cpp(68,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  ocrfactory.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\ocrfactory.cpp(13,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  charactersegmenter.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\segmentation\charactersegmenter.cpp(1086,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  histogram.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\segmentation\histogram.cpp(259,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  histogramhorizontal.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\segmentation\histogramhorizontal.cpp(29,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  histogramvertical.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\segmentation\histogramvertical.cpp(38,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tesseract_ocr.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\ocr\tesseract_ocr.cpp(167,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  pipeline_data.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\pipeline_data.cpp(55,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  postprocess.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\postprocess\postprocess.cpp(433,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  regexrule.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\postprocess\regexrule.cpp(146,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  prewarp.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\prewarp.cpp(303,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  result_aggregator.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\result_aggregator.cpp(409,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  filesystem.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\filesystem.cpp(267,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  platform.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\platform.cpp(57,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  bitstate.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\bitstate.cc(381,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  compile.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\compile.cc(1145,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dfa.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\dfa.cc(2137,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  filtered_re2.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\filtered_re2.cc(108,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  mimics_pcre.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\mimics_pcre.cc(186,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  nfa.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\nfa.cc(760,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  onepass.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\onepass.cc(611,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  parse.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\parse.cc(2287,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  perl_groups.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\perl_groups.cc(120,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  prefilter.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\prefilter.cc(713,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  prefilter_tree.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\prefilter_tree.cc(406,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  prog.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\prog.cc(344,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  re2.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\re2.cc(1246,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  regexp.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\regexp.cc(944,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  set.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\set.cc(114,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  simplify.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\simplify.cc(395,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  stringpiece.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\stringpiece.cc(95,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  tostring.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\tostring.cc(344,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  unicode_casefold.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\unicode_casefold.cc(481,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  unicode_groups.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\unicode_groups.cc(5079,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  hash.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\util\hash.cc(232,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  rune.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\util\rune.cc(259,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  stringprintf.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\util\stringprintf.cc(97,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  strutil.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\util\strutil.cc(105,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  valgrind.cc
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\re2\util\valgrind.cc(27,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  timing.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\timing.cpp(206,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  컴파일하고 있습니다...
+  tinythread.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\tinythread.cpp(304,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  utf8.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\utf8.cpp(24,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  version.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\support\version.cpp(29,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  characteranalysis.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\textdetection\characteranalysis.cpp(683,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  linefinder.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\textdetection\linefinder.cpp(467,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  platemask.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\textdetection\platemask.cpp(203,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  textcontours.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\textdetection\textcontours.cpp(141,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  textline.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\textdetection\textline.cpp(138,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  transformation.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\transformation.cpp(149,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  utility.cpp
+C:\CS\CMU\Project\220615_hglee\libs\libopenalpr\utility.cpp(643,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

@@ -1,0 +1,26 @@
+﻿  dev2gif.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\dev2gif.c(511,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  dgif_lib.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\dgif_lib.c(1099,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  egif_lib.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\egif_lib.c(1112,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  getarg.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\getarg.c(698,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gifalloc.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\gifalloc.c(444,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gif_err.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\gif_err.c(121,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gif_font.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\gif_font.c(265,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  gif_hash.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\gif_hash.c(161,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  qprintf.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\qprintf.c(64,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+  quantize.c
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(40,1): warning C4005: 'COLOR_ARRAY_SIZE': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(36): message : 'COLOR_ARRAY_SIZE'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(41,1): warning C4005: 'BITS_PER_PRIM_COLOR': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(37): message : 'BITS_PER_PRIM_COLOR'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(42,1): warning C4005: 'MAX_PRIM_COLOR': 매크로 재정의
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(38): message : 'MAX_PRIM_COLOR'의 이전 정의를 참조하십시오.
+C:\CS\CMU\Project\220615_hglee\libs\dependencies\giflib\src\quantize.c(331,1): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?

@@ -33,21 +33,21 @@
     <ClCompile Include="..\libs\libopenalpr\video\videobuffer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\socket.io-client-cpp\src\sio_client.cpp">
+    <ClCompile Include="..\socketio\src\sio_client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\socket.io-client-cpp\src\sio_socket.cpp">
+    <ClCompile Include="..\socketio\src\sio_socket.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\socket.io-client-cpp\src\internal\sio_client_impl.cpp">
+    <ClCompile Include="..\socketio\src\internal\sio_client_impl.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\socket.io-client-cpp\src\internal\sio_packet.cpp">
+    <ClCompile Include="..\socketio\src\internal\sio_packet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\socket.io-client-cpp\src\sio_client.h">
+    <ClInclude Include="..\socketio\src\sio_client.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
